@@ -1,6 +1,3 @@
-__ give me the credit mr craxes or else i touch you 
-Carl
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local localPlayer = Players.LocalPlayer
